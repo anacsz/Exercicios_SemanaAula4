@@ -4,9 +4,10 @@
 o foco foi direcionado para Arrays, Objetos e Métodos, sendo possivél se aprofundar ainda mais no asunto.
 <p><br><br>
 
-<p2 align="justify"> Exercicio da Semana <br>
+<h2 align="center"> Exercicio da Semana <h2>
 
-O exercicio da semana foi proposto a criação de um sistema que guarda informaçãoes ref. aos livros, sendo possivel gerenciar alguns pontos: Lidos, Não Lidos, recomendados.
+
+<p2 align="justify">O exercicio da semana foi proposto a criação de um sistema que guarda informaçãoes ref. aos livros, sendo possivel gerenciar alguns pontos: Lidos, Não Lidos, recomendados.
 
 Seguimos os passos:
 
@@ -24,10 +25,10 @@ Seguimos os passos:
 
 - [x] criar o arquivo app.js
 
-- [x] Rodar projeto npm run start
+- [x] Rodar projeto npm run start <p2>
 
 <br>
 
 <p3 align="justify"> O exercicio proposto foi um pouco complexo pois requer treino... mas foi um desafio incrivel.
 
-<img src="img01.jpg" alt="alt text" width="200"/>
+<img src="img.jpg" alt="alt text" width="200"/>
