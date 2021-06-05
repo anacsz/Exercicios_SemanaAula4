@@ -33,4 +33,4 @@ Seguimos os seguintes passos: :footprints:
 
 <h6 align="center">Bora programar!!!!!!!! <h6>
 
-<center> <img src="img.jpg" alt="alt text" width="200"/></center>
+<center> <img src="img.jpg" alt="alt text" width="200"/>
