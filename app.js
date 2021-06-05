@@ -1,3 +1,8 @@
+
+console.log('..................................')
+console.log('     Projeto Livraria             ')
+console.log('..................................')
+
 const livros = require('./database')
 
 const pegarInput = require('readline-sync')
