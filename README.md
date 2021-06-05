@@ -1,4 +1,4 @@
-<h1 align="center">Lógica aplicada - Arrays, Objetos e Métodos <h1>
+<h1 align="center">Lógica aplicada - Arrays, Objetos e Métodos <h1> :book:
 
 <p align="justify">Nossa aula daSemana 4 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica),
 o foco foi direcionado para Arrays, Objetos e Métodos, sendo possivél se aprofundar ainda mais no asunto.
@@ -9,7 +9,7 @@ o foco foi direcionado para Arrays, Objetos e Métodos, sendo possivél se aprof
 
 <p2 align="justify">O exercicio da semana foi proposto a criação de um sistema que guarda informaçãoes ref. aos livros, sendo possivel gerenciar alguns pontos: Lidos, Não Lidos, recomendados.
 
-Seguimos os passos:
+Seguimos os seguintes passos: :footprints:
 
 - [x] npm init -y
 
@@ -21,7 +21,7 @@ Seguimos os passos:
 
 - [x] criar .gitignore
 
-- [x] criar a database um array de objetos, não esquecer de exportar
+- [x] criar o arquivo database (array de objetos)
 
 - [x] criar o arquivo app.js
 
@@ -29,6 +29,8 @@ Seguimos os passos:
 
 <br>
 
-<p3 align="justify"> O exercicio proposto foi um pouco complexo pois requer treino... mas foi um desafio incrivel.
+<<h5 align="justify"> O exercicio proposto foi de acordo com os conteudos exibido em aulas e ja estudados. Haha outro ponto colocado em pratica foi a paciencia e persistencia (best friends forever) <h5>
+
+<h6 align="center">Bora programar!!!!!!!! <h6>
 
 <img src="img.jpg" alt="alt text" width="200"/>
